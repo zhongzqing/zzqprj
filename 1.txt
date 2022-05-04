@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+123456 xyz
+=======
+1234567 mnl  bbc
+>>>>>>> Stashed changes
